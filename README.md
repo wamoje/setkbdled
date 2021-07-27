@@ -1,5 +1,5 @@
 Utility to set colour and brightness of keyboard backlight led's.
-Developed on a System76 Gazelle, but probably suited for all Sysyem76 laptops.
+Developed on a System76 Gazelle, but probably suited for all System76 laptops.
 
 Last used values will be stored in /etc/kbdled.cfg. When called without
 arguments, the values in this file will be used to set brightness and colour.
