@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# To be placed in /usr/local/bin
 ''' setkbled.py - Program to control keyboard background light
 
     Design considerations:
